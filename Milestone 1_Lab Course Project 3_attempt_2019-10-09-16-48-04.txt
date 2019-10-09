@@ -1,0 +1,36 @@
+Name: Lab Course Project 3
+Assignment: Milestone 1
+Date Submitted: Wednesday, October 9, 2019 4:48:04 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Articles.java
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_Articles.java
+
+	Original filename: freqtest.java
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_freqtest.java
+
+	Original filename: Main.java
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_Main.java
+
+	Original filename: Counter.java
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_Counter.java
+
+	Original filename: britannica.txt
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_britannica.txt
+
+	Original filename: guardian.txt
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_guardian.txt
+
+	Original filename: nytimes.txt
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_nytimes.txt
+
+	Original filename: Milestone 1 Layout.xlsx
+	Filename: Milestone 1_Lab Course Project 3_attempt_2019-10-09-16-48-04_Milestone 1 Layout.xlsx
+
